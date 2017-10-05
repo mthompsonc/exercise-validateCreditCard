@@ -30,7 +30,7 @@ for (var j = 0; j<newArray.length; j++){}
     }
     if(total % 10 === 0){
         alert("Su Tarjeta de Cr\u00e9dito es v\u00e1lida.");
-      }else{
+    }else{
         alert("Su Tarjeta de Cr\u00e9dito es inv\u00e1lida.")}
       }
     }
