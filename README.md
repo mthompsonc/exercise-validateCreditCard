@@ -1,6 +1,6 @@
 # Validar tarjeta de Crédito.
 
-** Este código sirve para validar tarjetas de crédito ingresando los números principales de esta. **
+**Este código sirve para validar tarjetas de crédito ingresando los números principales de esta.**
 
 #### Trabajo realizado por:
  "María Paz Thompson" <m.paz.thompson@gmail.com>
