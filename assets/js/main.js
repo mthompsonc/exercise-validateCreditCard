@@ -72,7 +72,7 @@ function isValid() {
     /*
     * SumOdds es la variable que se le van agregando los números que estaban en la posición impar del array.
     */
-    check = 'Tu tarjeta es v\u00e1lida!!'; 
+    check = 'Tu tarjeta es v\u00e1lida'; 
     /*
     * Se suma el contenido de la variable evenFinal (posiciones pares de los números de la tarjeta de crédito multiplicados por 2) más sumOdds que son los números de las posiciones impares. Así tener la suma total de todos los elementos de reversed, los cuales son todos los números de la tarjeta de crédito pero con las fórmulas aplicadas.
     */
