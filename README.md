@@ -16,5 +16,5 @@
 
 ### Flujo de Código.
 
+![img](https://image.ibb.co/n8qyPG/Diagrama_tarjeta_de_credito.png)
 
-![Alt text](https://ibb.co/nsP3rw)
